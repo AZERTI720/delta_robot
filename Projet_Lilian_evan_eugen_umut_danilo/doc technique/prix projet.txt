@@ -1,0 +1,27 @@
+venturie: 720
+compresseur:150
+electro-aimant: 12.50
+metrix : 819,60 €
+
+1 702,1 €
+
+servomoteur toto 210
+arduino : 28 *2
+arduino shield dynamixel : 35.90
+
+301.9 €
+
+moteur tapie : 380.39
+arduino : 28
+arduino shield : 19.90
+metrix : 819,60 €
+
+1 247,89 €
+
+camera pixye :70*2
+support : 20*2
+arduino : 19.90*2
+
+219,8 €
+
+total projet : 3 471,69 €

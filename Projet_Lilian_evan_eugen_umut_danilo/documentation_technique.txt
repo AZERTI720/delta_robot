@@ -1,0 +1,79 @@
+carte Dynamixel : 
+https://emanual.robotis.com/docs/en/parts/interface/dynamixel_shield/
+
+Moteur bras robot:
+https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/
+https://github.com/makertut/ax12-arduino?tab=readme-ov-file
+https://gemini.google.com/share/c0a203950ee9
+https://fr.wikipedia.org/wiki/Robot_Delta
+
+https://chatgpt.com/g/g-p-69a8252c1cac81919d5bbad81cbf1579-projet-term/project
+
+
+
+
+
+IMPORTANT                       https://www.youtube.com/watch?v=tkV9CPWjtgU
+IMPORTANT
+                                https://www.youtube.com/watch?v=GWJvaF6eUk8
+
+
+explication :
+Tuto Servomoteur Dynamixel 2XL430.pdf
+
+
+
+
+Lien prof : 
+https://www.youtube.com/watch?v=8fJ6o1qbqig 
+https://forum.arduino.cc/t/dynamixel-library-with-no-additional-hardware/370176
+https://www.youtube.com/watch?v=JQSY8jlgW90
+
+
+Eugen : 
+
+Comment fonctionne la PixyCam :
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:pixy_regular_quick_start
+https://www.lextronic.fr/camera-charmed-labs-pixy-2-39567.html
+
+
+Base de la PixyCam : 
+https://www.aranacorp.com/fr/vision-par-ordinateur-avec-arduino-et-la-camera-pixy2/
+https://www.aranacorp.com/fr/la-programmerie/
+https://www.aranacorp.com/fr/tutoriels/
+https://www.youtube.com/watch?v=391dXDjqzXA
+https://www.youtube.com/watch?v=nSN8B20ZbqQ
+
+
+https://gemini.google.com/share/8c7dbedf0110
+https://gemini.google.com/app/c4be467fb97a297d?hl=fr
+
+
+compresseur : 
+https://www.coval.fr/produits/lemax90x14v-mini-pompe-a-vide-integree-avec-asc-air-saving-control-serie-lemax-vide-maxi-85-diametre-de-buse-1-4-mm-commande-electrique-du-vide-24v-cc-n-o-et-soufflage-24v-cc-n-f-vacuostat-electronique-a-affichage-2-connecteurs-m8-4-poles-2535.htm
+
+https://www.coval.fr/produits/mini-pompes-a-vide-integrees-avec-asc-air-saving-control-serie-lemax-2533.htm
+
+
+communication série
+https://claude.ai/share/94b34109-91df-4562-83ef-77d6db440055
+
+relais
+
+https://tutoduino.fr/debuter/controler-un-relai/
+
+venturi ventouse : 
+https://novacom-vide.com/content/29-guide-des-venturis#:~:text=PRINCIPE%20DE%20FONCTIONNEMENT&text=Les%20venturis%20fonctionnent%20gr%C3%A2ce%20%C3%A0,de%20l%27orifice%20de%20vide.
+
+
+
+site achat électroaimant
+
+https://www.gotronic.fr/art-electroaimant-grove-101020073-21548.htm
+
+
+
+
+site calcu delta robot:
+https://hypertriangle.com/~alex/delta-robot-tutorial/
+https://people.ohio.edu/williams/html/PDF/DeltaKin.pdf

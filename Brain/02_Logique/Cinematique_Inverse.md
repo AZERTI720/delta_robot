@@ -22,4 +22,4 @@ Le calcul repose sur la fonction `calculeEtAffiche(double x, double y, double z)
 > **Note :** Des corrections d'offset (ex: `+20` pour le moteur 2) sont appliquées pour compenser les imperfections mécaniques du montage.
 
 ## 🔗 Code Source
-Le code est situé dans `Delta_robot_XYZ_avec_I2C.ino`.
+Le code est situé dans `Firmware/Final/Delta_robot_XYZ_avec_I2C/Delta_robot_XYZ_avec_I2C.ino`.

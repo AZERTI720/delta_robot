@@ -1,0 +1,33 @@
+name: Update Parallel Brain
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'Brain/**'
+
+jobs:
+  update-brain:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Update Obsidian Brain
+        run: python update_brain.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Brain/
+          git commit -m "🤖 Mise à jour automatique du cerveau Obsidian" || echo "No changes to commit"
+          git push
